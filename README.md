@@ -3,7 +3,7 @@ Link to deployed app
 https://reactstepform.herokuapp.com/
 
 
-
+https://docs.google.com/document/d/1MKUsGnGkHdxRdY-NObnP6oXIN9cN0cBIWypuLWqZGIk/edit?usp=sharing
 
 
 
